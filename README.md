@@ -37,11 +37,13 @@ We are actively working on:
 *   Batch processing capabilities to handle multiple images simultaneously.
 
 ## Project Status and Licensing
-Currently, **ArchDisk Tool** is a **Closed Source** project.
+Currently, ArchDisk Tool is a Closed Source project, but this is a temporary state.
 
-While we recognize the value of community-driven development, we have opted to keep the source code private during this initial phase. This ensures that the development process maintains a cohesive technical vision. We are committed to consolidating a robust, stable, and feature-rich version before evaluating the possibility of opening the project to the public.
+We are actively working to build a highly robust, feature-rich version of both the conversion engine and the user interface. Our goal is to ensure the codebase reaches a level of maturity and stability that facilitates future collaboration.
 
-We appreciate the support and interest of everyone following this development.
+Once this foundation is consolidated, we intend to open the project to the public. We believe that by establishing a solid architecture first, we will empower other developers to create their own versions, plugins, and improvements with ease.
+
+We appreciate the support of the community as we finalize these initial milestones. Stay tuned for updates on our transition to an open-source model.
 
 ---
 
