@@ -13,7 +13,7 @@ The core of the project is the processing engine, developed with a focus on raw 
 *   **CUE Awareness:** Native support for `.cue` files, allowing the engine to automatically identify track offsets and essential metadata required for the correct preservation of complex media and games.
 *   **Optimization:** Engineered to minimize memory footprint while maximizing conversion speed, making it ideal for handling large volumes of data.
 
-### 2. User Interface (ArchDisk Interface)
+### 2. User Interface (ArchDisk Interface in CSharp + WinForms + GunaUI2)
 The visual layer is designed to provide a fluid and professional workflow. By abstracting the complexity of the engine, the interface allows users to manage conversion processes with just a few clicks.
 
 *   **Modern Design:** UI optimized for productivity, featuring clear visual patterns that simplify the identification of source and destination files.
