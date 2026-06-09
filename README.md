@@ -6,7 +6,7 @@
 
 The system is structured into two main components that work in seamless integration:
 
-### 1. Conversion Engine (ArchDisk Engine)
+### 1. Conversion Engine (ArchDisk Engine in C++)
 The core of the project is the processing engine, developed with a focus on raw performance. It is capable of performing sector-level read and write operations, ensuring data integrity during transformation.
 
 *   **Sector Processing:** Advanced identification and handling of different track modes (Raw, Data, Audio).
