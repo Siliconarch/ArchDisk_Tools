@@ -38,6 +38,6 @@ We appreciate the interest of everyone following the development of this tool.
 ---
 
 ### Developed by
-**Siliconarch Systems** | Lead Developer: Wenderson Dias[BravesDev](https://github.com//bravesdev)
+**Siliconarch Systems** | Lead Developer: Wenderson Dias([BravesDev](https://github.com//bravesdev))
 
 *Copyright © 2026. All rights reserved.*
