@@ -48,6 +48,6 @@ We appreciate the support of the community as we finalize these initial mileston
 ---
 
 ### Developed by
-**Siliconarch Systems** | Lead Developer: Wenderson Dias ([@BravesDev](https://github.com/bravesdev))
+**Siliconarch Systems** | Lead Developer: Wenderson Dias ([@welabsdev](https://github.com/welabsdev))
 
 *Copyright © 2026. All rights reserved.*
